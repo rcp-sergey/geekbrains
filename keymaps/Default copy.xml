@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+</keymap>
